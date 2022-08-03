@@ -1,3 +1,5 @@
+This page contains good reference links on various technologies that are being used by Maveric Digital team. 
+
 # Agile
 
 # Azure
