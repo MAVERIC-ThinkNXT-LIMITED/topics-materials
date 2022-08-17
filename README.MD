@@ -64,7 +64,8 @@ This page contains good reference links on various technologies that are being u
  
 # Microservices advanced:
 - https://www.udemy.com/course/spring-boot-microservices-cqrs-saga-axon-framework/learn/lecture/23784946?start=15#content
- 
+- https://youtu.be/rv4LlmLmVWk
+
 # Kafka:
 - https://www.udemy.com/course/apache-kafka/learn/lecture/17914080?start=0#overview
  
