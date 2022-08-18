@@ -3,13 +3,17 @@ This page contains good reference links on various technologies that are being u
 # Agile
 
 # Azure
+https://www.youtube.com/watch?v=tDuruX7XSac
 
 # Database
+https://www.youtube.com/watch?v=wR0jg0eQsZA
+https://www.youtube.com/watch?v=7S_tz1z_5bA
 
 # Docker
 - https://www.youtube.com/watch?v=3c-iBn73dDE&t=807s
 - https://www.youtube.com/watch?v=SBUCYJgg4Mk&list=RDCMUCdngmbVKX1Tgre699-XLlUA&index=37
- 
+- https://www.youtube.com/watch?v=8vXoMqWgbQQ
+
 # Kubernetes:
 - https://www.youtube.com/watch?v=VnvRFRk_51k
 - https://www.youtube.com/watch?v=s_o8dwzRlu4&t=2672s
@@ -58,7 +62,8 @@ This page contains good reference links on various technologies that are being u
 # API Design
 - https://swagger.io/resources/articles/best-practices-in-api-design/
 - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
-
+- https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+- 
 # Oauth2 via Spring security:
 - https://www.udemy.com/course/oauth2-in-spring-boot-applications/learn/lecture/20359891?start=0#overview
  
