@@ -1,9 +1,11 @@
 This page contains good reference links on various technologies that are being used by Maveric Digital team. 
 
 # Agile
-
+- https://www.youtube.com/watch?v=6fKn4rgk4jM&t=131s
+- 
 # Azure
-https://www.youtube.com/watch?v=tDuruX7XSac
+- https://www.youtube.com/watch?v=tDuruX7XSac
+- https://www.youtube.com/watch?v=NKEFWyqJ5XA&t=16s
 
 # Database
 https://www.youtube.com/watch?v=wR0jg0eQsZA
@@ -83,5 +85,7 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 - https://www.youtube.com/watch?v=k5E2AVpwsko
 
 # ReactJs
+- https://www.youtube.com/watch?v=VyeA0tVreYw
+- https://www.youtube.com/watch?v=Ke90Tje7VS0
 - https://www.udemy.com/share/101Wby3@niVSBKu_8kxii7U92H4UJmTeMxuUo9_VtOayl1e3qXwCosDn0NyLFADUkZp_kgBf/
 
