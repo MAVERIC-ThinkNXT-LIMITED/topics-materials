@@ -62,6 +62,8 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 - https://spring.io/projects/spring-boot
 - https://www.youtube.com/watch?v=zp2tqnpZiAU
 - https://www.youtube.com/watch?v=bNFoN956P2A
+- https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-practices-part-2-7137bdcba7d3
+
 # API Design
 - https://swagger.io/resources/articles/best-practices-in-api-design/
 - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
