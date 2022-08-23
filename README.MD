@@ -52,22 +52,24 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 - https://www.youtube.com/results?search_query=typescript+tutorial
  
 # Java Springboot
-- https://www.nginx.com/blog/introduction-to-microservices/
-- https://martinfowler.com/articles/microservices.html
-- https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
-- https://www.youtube.com/playlist?list=PLTyWtrsGknYegrUmDZB6rcqMotOFZKvbn
-- https://www.youtube.com/playlist?list=PLwvrYc43l1Mwqpf9i-1B1gXfMeHOm6DeY
-- https://spring.io/why-spring
-- https://spring.io/microservices
-- https://spring.io/projects/spring-boot
-- https://www.youtube.com/watch?v=zp2tqnpZiAU
-- https://www.youtube.com/watch?v=bNFoN956P2A
-- https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-practices-part-2-7137bdcba7d3
+- [Nginx microservice architecture details](https://www.nginx.com/blog/introduction-to-microservices/)
+- [Martin Fowler article on microservice architecture](https://martinfowler.com/articles/microservices.html)
+- [Meaning of various HTTP status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [Spring Boot Tech Primer youtube free tutorial](https://www.youtube.com/playlist?list=PLTyWtrsGknYegrUmDZB6rcqMotOFZKvbn)
+- [Spring boot & Microservice youtube free tutorial](https://www.youtube.com/playlist?list=PLwvrYc43l1Mwqpf9i-1B1gXfMeHOm6DeY)
+- [Why Spring?](https://spring.io/why-spring)
+- [Why Microservices?](https://spring.io/microservices)
+- [Official springboot page](https://spring.io/projects/spring-boot)
+- [Spring vs Springboot differences](https://www.youtube.com/watch?v=zp2tqnpZiAU)
+- [Spring vs Springboot problems that they are intended to solve](https://www.youtube.com/watch?v=bNFoN956P2A)
+- [Springboot recommended project structure](https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-practices-part-2-7137bdcba7d3)
+- [IntelliJ SonarQube, Jococo setup for springboot app](https://medium.com/trendyol-tech/spring-boot-2-2-6-code-quality-with-sonarqube-8-2-community-70a76634bf75)
 
 # API Design
-- https://swagger.io/resources/articles/best-practices-in-api-design/
-- https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
-- https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+- [Swagger API design best practices](https://swagger.io/resources/articles/best-practices-in-api-design/)
+- [Stack overflow API design best practices](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+- [API design best practices by VinaySahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- [Microsoft API design best practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 # Oauth2 via Spring security:
 - https://www.udemy.com/course/oauth2-in-spring-boot-applications/learn/lecture/20359891?start=0#overview
