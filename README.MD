@@ -3,6 +3,11 @@ This page contains good reference links on various technologies that are being u
 # Agile
 - https://www.youtube.com/watch?v=6fKn4rgk4jM&t=131s
 
+# Shell scripting
+- [How to install Ubunto on Windows 10 via WSL](https://www.youtube.com/watch?v=X-DHaQLrBi8)
+- [Install WSL:](https://docs.microsoft.com/en-us/windows/wsl/install) 
+- [Linux basic commands course](https://www.youtube.com/watch?v=iwolPf6kN-k&t=5475s)
+
 # Azure
 - https://www.youtube.com/watch?v=tDuruX7XSac
 - https://www.youtube.com/watch?v=NKEFWyqJ5XA&t=16s
