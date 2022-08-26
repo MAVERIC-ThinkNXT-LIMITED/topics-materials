@@ -34,7 +34,9 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
  - [Free 25 minutes youtube video for beginners teaching  Git & Gitbash](https://www.youtube.com/watch?v=iGutIN5t9Mo)
  - [Cheat sheet containing key concepts and everyday used git commands](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
  - [Git book. Candidates are expected to go Chapters 1, 2, 3, 6](https://git-scm.com/book/en/v2)
-
+ 
+#####
+ - [Assignment to be completed](https://github.com/MAVERIC-ThinkNXT-LIMITED/SimpleCalculator)
 # Core Java
 - [Introduction to Java - Architecture & Installation](https://www.youtube.com/watch?v=4EP8YzcN0hQ&t=20s)
 - [First Java Program - Input/Output, Debugging and Datatypes](https://www.youtube.com/watch?v=TAtrPoaJ7gc)
