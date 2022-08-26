@@ -1,7 +1,8 @@
 This page contains good reference links on various technologies that are being used by Maveric Digital team. 
 
 # Agile
-- https://www.youtube.com/watch?v=6fKn4rgk4jM&t=131s
+- [What is Agile Methodology | What is Agile | Intellipaat](https://www.youtube.com/watch?v=6fKn4rgk4jM&t=131s)
+- [What is Scrum? | Agile](https://www.youtube.com/watch?v=oTZd2vo3FQU)
 
 # Shell scripting
 - [How to install Ubunto on Windows 10 via WSL](https://www.youtube.com/watch?v=X-DHaQLrBi8)
@@ -35,13 +36,26 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
  - [Git book. Candidates are expected to go Chapters 1, 2, 3, 6](https://git-scm.com/book/en/v2)
 
 # Core Java
-- https://www.udemy.com/course/java-the-complete-java-developer-course/
+- [Introduction to Java - Architecture & Installation](https://www.youtube.com/watch?v=4EP8YzcN0hQ&t=20s)
+- [First Java Program - Input/Output, Debugging and Datatypes](https://www.youtube.com/watch?v=TAtrPoaJ7gc)
+- [OOP 1 | Introduction & Concepts - Classes, Objects, Constructors, Keywords](https://www.youtube.com/watch?v=BSVKUk58K6U&t=1045s)
+- [OOP 2 | Packages, Static, Singleton Class, In-built Methods](https://www.youtube.com/watch?v=_Ya6CN13t8k)
+- [OOP 3 | Principles - Inheritance, Polymorphism, Encapsulation, Abstraction](https://www.youtube.com/watch?v=46T2wD3IuhM)
+- [Learn Java 8 - Full Tutorial for Beginners](https://www.youtube.com/watch?v=grEKMHGYyns)
+- [Simplilearn youtube free course on advanced java](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
+#### Links for practing
+- [Hacker Rank Link for practice](https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=java)
+- [Leet code for coding practice](https://leetcode.com/problemset/all/)
+- [Full Java Roadmap](https://www.youtube.com/watch?v=TE3LyYW-AHQ)
 
 # Advanced Java
-- https://www.udemy.com/course/java-the-complete-java-developer-course/
-- https://www.youtube.com/watch?v=Ae-r8hsbPUo
-- https://www.youtube.com/watch?v=d2KwvXQgQx4
-- https://www.youtube.com/watch?v=3OrEsC-QjUA
+- [Simplilearn Advanced Java Course](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
+- [JUnit, Mockito tutorial]https://www.youtube.com/watch?v=d2KwvXQgQx4
+- [Java JDBC tutorial](https://www.youtube.com/watch?v=3OrEsC-QjUA)
+- [Java memory management and garbage collection](https://www.youtube.com/watch?v=bspS-uTK0IM)
+- 
+#### Paid Java Courses:
+- [Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
 # Design Patterns
 - https://www.youtube.com/watch?v=tDxnyop48mY&list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol&index=1s
