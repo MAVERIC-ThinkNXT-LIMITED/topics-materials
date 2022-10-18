@@ -87,6 +87,7 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 - [IntelliJ SonarQube, Jococo setup for springboot app](https://medium.com/trendyol-tech/spring-boot-2-2-6-code-quality-with-sonarqube-8-2-community-70a76634bf75)
 
 # API Design
+- [Open API Specification](https://swagger.io/specification/)
 - [Swagger API design best practices](https://swagger.io/resources/articles/best-practices-in-api-design/)
 - [Stack overflow API design best practices](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
 - [API design best practices by VinaySahni](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
