@@ -60,6 +60,7 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 - [Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
 # Design Patterns
+- https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
 - https://www.youtube.com/watch?v=tDxnyop48mY&list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol&index=1s
 - https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc
 
