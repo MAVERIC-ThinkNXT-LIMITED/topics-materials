@@ -100,6 +100,7 @@ https://www.youtube.com/watch?v=7S_tz1z_5bA
 # Microservices advanced:
 - https://www.udemy.com/course/spring-boot-microservices-cqrs-saga-axon-framework/learn/lecture/23784946?start=15#content
 - https://youtu.be/rv4LlmLmVWk
+- https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a
 
 # Kafka:
 - https://www.udemy.com/course/apache-kafka/learn/lecture/17914080?start=0#overview
