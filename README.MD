@@ -14,8 +14,8 @@ This page contains good reference links on various technologies that are being u
 - https://www.youtube.com/watch?v=NKEFWyqJ5XA&t=16s
 
 # Database
-https://www.youtube.com/watch?v=wR0jg0eQsZA
-https://www.youtube.com/watch?v=7S_tz1z_5bA
+- https://www.youtube.com/watch?v=wR0jg0eQsZA
+- https://www.youtube.com/watch?v=7S_tz1z_5bA
 
 # Docker
 - https://www.youtube.com/watch?v=3c-iBn73dDE&t=807s
