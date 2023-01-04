@@ -55,7 +55,7 @@ This page contains good reference links on various technologies that are being u
 - [JUnit, Mockito tutorial](https://www.youtube.com/watch?v=d2KwvXQgQx4)
 - [Java JDBC tutorial](https://www.youtube.com/watch?v=3OrEsC-QjUA)
 - [Java memory management and garbage collection](https://www.youtube.com/watch?v=bspS-uTK0IM)
-- 
+
 #### Paid Java Courses:
 - [Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
