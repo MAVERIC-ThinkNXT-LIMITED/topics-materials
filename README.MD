@@ -59,6 +59,10 @@ This page contains good reference links on various technologies that are being u
 #### Paid Java Courses:
 - [Udemy Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
+# Java Testing
+- [Introduction to JUnit](https://www.youtube.com/watch?v=vZm0lHciFsQ)
+- [Mockito & Junit](https://www.youtube.com/watch?v=d2KwvXQgQx4)
+
 # Design Patterns
 - https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
 - https://www.youtube.com/watch?v=tDxnyop48mY&list=PLsyeobzWxl7r2ZX1fl-7CKnayxHJA_1ol&index=1s
